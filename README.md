@@ -3,7 +3,8 @@
 <br>
 
 - Responsive Login & Registration Form Using HTML CSS And JavaScript.
-- You can switch between signing in and creating an account.
+- Includes a login form and registration form.
+- Animations when changing forms.
 - Compatible with all mobile devices.
 
   <br>
